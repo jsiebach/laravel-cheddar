@@ -1,0 +1,19 @@
+{
+    "name":         "jsiebach/laravel-cheddar",
+    "type":         "library",
+    "description":  "An unofficial service provider for using CheddarGetter in Laravel",
+    "keywords":     ["CheddarGetter","Laravel"],
+    "license":      "MIT",
+    "authors":      [
+        {
+            "name":  "Jeff Siebach",
+            "email": "jeff@jeffsiebach.com"
+        }
+    ],
+    "support": {
+      "issues": "https://github.com/jsiebach/laravel-cheddar/issues"
+    },
+    "require": {
+        "cheddar-getter/client": "^1.1"
+    }
+}
