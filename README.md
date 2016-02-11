@@ -2,12 +2,13 @@
 A service provider for using CheddarGetter in Laravel
 
 ## Set Up
-1. Add this line to your composer.json -
+1. Add this package to your composer.json -
 
-
+```
     "require": {
         "jsiebach/laravel-cheddar": "dev-master"
     }
+```
 
 2. Run `composer update`
 
