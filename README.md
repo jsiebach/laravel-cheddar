@@ -6,7 +6,7 @@ A service provider for using CheddarGetter in Laravel
 
 ```
     "require": {
-        "jsiebach/laravel-cheddar": "dev-master"
+        "jsiebach/laravel-cheddar": "^1.0"
     }
 ```
 
