@@ -15,5 +15,10 @@
     },
     "require": {
         "cheddar-getter/client": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "JSiebach\\Cheddar\\": "src/",
+        }
     }
 }
