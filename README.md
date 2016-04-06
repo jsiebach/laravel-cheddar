@@ -1,5 +1,7 @@
 # laravel-cheddar
-A service provider for using CheddarGetter in Laravel
+A service provider for using CheddarGetter in Laravel.
+
+This package simply provides an easy way to pull an authenticated CheddarGetter PHP Wrapper Client into your Laravel app.  See the documentation for the CheddarGetter PHP Wrapper here: https://github.com/marcguyer/cheddargetter-client-php
 
 ## Set Up
 1. Add this package to your composer.json -
